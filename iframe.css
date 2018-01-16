@@ -1,0 +1,11 @@
+iframe{
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    margin: auto;
+    border: 1px solid #000;
+    min-width: 800px;
+    min-height: 610px;
+}
